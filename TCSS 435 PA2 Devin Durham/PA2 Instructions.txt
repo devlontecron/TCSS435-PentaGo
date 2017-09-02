@@ -1,0 +1,36 @@
+Devin Durham
+d1durham
+TCSS435
+6/9/17
+
+INSTRUCTIONS
+
+Program runs as described in the instructions.
+User first chooses which color of token to be ["White" or "Black"]
+Program will randomly choose who goes first.
+AI will automatically make moves.
+User will be prompted and be addressed to as "Human"
+User makes moves by "BoardQuadrant[1-4]/Position[1-9] BoardQuadreant[1-4]LeftOrRightRotate[L,R]"
+For example:
+
+Humans turn:
+(Human is W)
+2/2 2R
++---+---+
+|BBB|BW-|
+|B--|---|
+|WWW|--W|
++---+---+
+|---|---|
+|---|---|
+|---|---|
++---+---+
++---+---+
+|BBB|--B|
+|B--|--W|
+|WWW|W--|
++---+---+
+|---|---|
+|---|---|
+|---|---|
++---+---+
